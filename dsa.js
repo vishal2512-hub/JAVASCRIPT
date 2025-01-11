@@ -39,10 +39,6 @@
 
 
 
-
-
-
-
 // let s='aba', k=2;
 
 // function substring(s,k) {
